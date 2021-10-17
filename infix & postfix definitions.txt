@@ -1,0 +1,5 @@
+infix:- it is a format where operator is specified in between the two operands 
+example: a+b
+postfix: It is a format where operator is specified before the two operands
+exmaple: +ab 
+     
