@@ -1,0 +1,4 @@
+infix:it is format where operator is specified in between the two operands
+eg:a+b
+postfix:it is format where operator is specified after the two operands
+eg:ab+
